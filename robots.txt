@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nbghstudio-pembuatanwebsite.vercel.app/sitemap.xml
